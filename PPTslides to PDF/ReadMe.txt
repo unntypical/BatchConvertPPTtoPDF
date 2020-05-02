@@ -1,7 +1,7 @@
 INSTRUCTIONS:
 
 1. Create a folder which you will use to contain all of the PPT & PPTx files you need to convert.
-2. Place the files "CONVERT_.bat" and "converter_.ps1" in this folder. These files should be left in this folder.
+2. Place the files "CONVERT.bat" and "converter.ps1" in this folder. These files should be left in this folder.
 
 3. When you need to convert PPT files into PDF files, drop them into your created folder.
 4. Edit the titles of the PPT files to your needs.

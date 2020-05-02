@@ -5,7 +5,7 @@ INSTRUCTIONS:
 
 3. When you need to convert PPT files into PDF files, drop them into your created folder.
 4. Edit the titles of the PPT files to suit your needs.
-5. Double click "CONVERT_.bat" which will run the file, and the powershell script "converter_.ps1".
+5. Double click "CONVERT.bat" which will run the file, and the powershell script "converter.ps1".
 6. The powershell script will convert all PPT and PPTx files within this folder, and within all subfolders, into PDF files ending in "_cvt".
 7. You can find the converted PDF files by searching for "_cvt" in the Windows search box.
 8. Move the files out of the convert folder when you are done with them
